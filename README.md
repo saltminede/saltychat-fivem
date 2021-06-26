@@ -201,3 +201,12 @@ Sets the radio towers.
 Parameter | Type | Description
 ------------ | ------------- | -------------
 towers | `float[][]` | Array with radio tower positions and ranges (X, Y, Z, range)
+
+# Addons
+Here are some Scripts provided by external developers for extending SaltyChat
+
+- [SaltyHUD](https://github.com/saltminede/saltychat-fivem/tree/master/saltyhud) Adds a HUD displaying your SaltyChat range, if your muted & co.
+- [SaltyCircle](https://github.com/EgoPvP/erp_saltycircle) Adds a circle displaying you current voice range when changing it
+- [SaltyNUI](https://github.com/EgoPvP/SaltyNUI) Adds a Blackscreen, if users dont have Teamspeak started up or are not in the correct Channel
+- [ls-radio](https://github.com/BlackFlash5/ls-radio) Forked version of the Original, made to be compatible with SaltyChat
+
